@@ -121,7 +121,7 @@ func main() {
 	os.Exit(2)
 }
 
-var usageTemplate = `Bee is a tool for managing beego framework.
+var usageTemplate = `Bee is a tool.
 
 Usage:
 
